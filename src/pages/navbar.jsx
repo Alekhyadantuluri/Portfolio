@@ -1,6 +1,5 @@
 import React, { useState, useEffect, useRef } from "react";
 import styles from "../css/navbar.module.css";
-
 const Navbar = () => {
     const [activeButton, setActiveButton] = useState("Home");
     const [underlineStyle, setUnderlineStyle] = useState({});

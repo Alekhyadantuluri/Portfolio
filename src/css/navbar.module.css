@@ -1,6 +1,7 @@
 .High_parent{
     position:sticky;
     top:0px;
+    background-color: white;
     /* display: none !important; */
 }
 .parent {

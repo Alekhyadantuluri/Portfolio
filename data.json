@@ -20,5 +20,115 @@
             "id":"5",
             "name":"5"
         }
+    ],
+    "Recommendations":[
+        {
+            "id":"1",
+            "image":"/assets/images/rating.png",
+            "heading":"Quality!",
+            "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vitae nulla diam in ac dictum a urna viverra morbi. Morbi donec amet....",
+            "pic":"/assets/images/profile.png",
+            "name":"James Gouse",
+            "profession":"Graphic Designer"
+        },
+        {
+            "id":"2",
+            "image":"/assets/images/rating.png",
+            "heading":"Quality!",
+            "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vitae nulla diam in ac dictum a urna viverra morbi. Morbi donec amet....",
+            "pic":"/assets/images/profile.png",
+            "name":"James Gouse",
+            "profession":"Graphic Designer"
+        },
+        {
+            "id":"3",
+            "image":"/assets/images/rating.png",
+            "heading":"Quality!",
+            "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vitae nulla diam in ac dictum a urna viverra morbi. Morbi donec amet....",
+            "pic":"/assets/images/profile.png",
+            "name":"James Gouse",
+            "profession":"Graphic Designer"
+        },
+        {
+            "id":"4",
+            "image":"/assets/images/rating.png",
+            "heading":"Quality!",
+            "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vitae nulla diam in ac dictum a urna viverra morbi. Morbi donec amet....",
+            "pic":"/assets/images/profile.png",
+            "name":"James Gouse",
+            "profession":"Graphic Designer"
+        },
+        {
+            "id":"5",
+            "image":"/assets/images/rating.png",
+            "heading":"Quality!",
+            "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vitae nulla diam in ac dictum a urna viverra morbi. Morbi donec amet....",
+            "pic":"/assets/images/profile.png",
+            "name":"James Gouse",
+            "profession":"Graphic Designer"
+        }
+
+    ],
+    "Skillspage":[
+        {
+            "heading":"Front End Development",
+            "skills":[
+                { "title":"HTML" , "progress" : 90 },
+                { "title":"HTML" , "progress" : 90 },
+                { "title":"HTML" , "progress" : 90 },
+                { "title":"HTML" , "progress" : 90 },
+                { "title":"HTML" , "progress" : 90 }
+            ]
+        },
+        {
+            "heading":"Front End Development",
+            "skills":[
+                { "title":"HTML" , "progress" : 90 },
+                { "title":"HTML" , "progress" : 90 },
+                { "title":"HTML" , "progress" : 90 },
+                { "title":"HTML" , "progress" : 90 },
+                { "title":"HTML" , "progress" : 90 }
+            ]
+        },
+        {
+            "heading":"Front End Development",
+            "skills":[
+                { "title":"HTML" , "progress" : 90 },
+                { "title":"HTML" , "progress" : 90 },
+                { "title":"HTML" , "progress" : 90 },
+                { "title":"HTML" , "progress" : 90 },
+                { "title":"HTML" , "progress" : 90 }
+            ]
+        },
+        {
+            "heading":"Front End Development",
+            "skills":[
+                { "title":"HTML" , "progress" : 90 },
+                { "title":"HTML" , "progress" : 90 },
+                { "title":"HTML" , "progress" : 90 },
+                { "title":"HTML" , "progress" : 90 },
+                { "title":"HTML" , "progress" : 90 }
+            ]
+        },
+        {
+            "heading":"Front End Development",
+            "skills":[
+                { "title":"HTML" , "progress" : 90 },
+                { "title":"HTML" , "progress" : 90 },
+                { "title":"HTML" , "progress" : 90 },
+                { "title":"HTML" , "progress" : 90 },
+                { "title":"HTML" , "progress" : 90 }
+            ]
+        },
+        {
+            "heading":"Front End Development",
+            "skills":[
+                { "title":"HTML" , "progress" : 90 },
+                { "title":"HTML" , "progress" : 90 },
+                { "title":"HTML" , "progress" : 90 },
+                { "title":"HTML" , "progress" : 90 },
+                { "title":"HTML" , "progress" : 90 }
+            ]
+        }
     ]
 }
